@@ -1,4 +1,4 @@
-#1 tutorial weeks
+#1 tutorial weekss
 '''a=[[24,3,6],[8,12,18],[2,66,7]]
 min =a[0][0]
 max=a[0][0]
